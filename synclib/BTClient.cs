@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
-using POCCamera.Models;
+using Synclib.Models;
 using RestSharp;
 
 namespace Synclib

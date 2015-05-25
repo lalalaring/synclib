@@ -1,4 +1,4 @@
-﻿namespace POCCamera.Models
+﻿namespace Synclib.Models
 {
     public class FolderPreferences
     {
